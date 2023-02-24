@@ -1,0 +1,36 @@
+/* Global styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(226, 226, 226);
+}
+
+/* Navbar styles */
+.navbar {
+    background-color: #fff !important;
+}
+
+.nav-link {
+    color: #000;
+}
+
+.nav-link:hover {
+    color: rgb(88, 88, 88);
+}
+
+/* Articles styles */
+
+.articlesMainContainer {
+    margin-top: 15px;
+}
+
+.articleContainer {
+    padding: 10px 5px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #000;
+}
